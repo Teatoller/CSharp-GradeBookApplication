@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:2.1-sdk-alpine
+FROM microsoft/dotnet:netcoreapp3.1
 
 WORKDIR /src/app
 
